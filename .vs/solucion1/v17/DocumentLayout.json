@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB66CCE-64DE-4408-A3B7-5F870407A559}|DespachoContable\\DespachoContable.csproj|c:\\users\\user\\desktop\\back\\despachocontable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FB66CCE-64DE-4408-A3B7-5F870407A559}|DespachoContable\\DespachoContable.csproj|solutionrelative:despachocontable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Back\\DespachoContable\\appsettings.json",
+              "RelativeDocumentMoniker": "DespachoContable\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Back\\DespachoContable\\appsettings.json",
+              "RelativeToolTip": "DespachoContable\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T22:14:03.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
